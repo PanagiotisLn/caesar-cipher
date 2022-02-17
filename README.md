@@ -1,3 +1,3 @@
 # caesar-cipher
 
-Make a function dor decode caesar cipher encoded words
+Make a function for decode caesar cipher encoded words
