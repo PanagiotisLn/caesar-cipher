@@ -3,6 +3,7 @@ function rot13(str) {
     let decoded ="";
     //console.log(decoded += "i")
     //console.log(str.charAt())
+    //lalalalal
     for (let i = 0; i < str.length; i++){
       if (str.charAt(i).match(/[a-z]/i)){
         //console.log("yes it's a character")
